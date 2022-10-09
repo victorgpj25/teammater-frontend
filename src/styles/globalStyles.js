@@ -10,6 +10,10 @@ const GlobalStyle = createGlobalStyle`
     
     body {
         background-color: #0f0f0f;
+        display: flex;
+        justify-content: center;
+        font-family: 'K2D';
+        font-style: normal;
     }
 
     html, body, div, span, applet, object, iframe,
